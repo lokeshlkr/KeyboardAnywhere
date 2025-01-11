@@ -20,7 +20,8 @@ Open android soft keyboard on demand.
 2. Reason for above seems to be that `Android 14` notices that activity that spawned the keyboard is gone so it dismisses the keyboard as well.
 3. Well... apart from that its just an utility app without much of an UI. If it works for you, you probably will never open the main app again so no point working on that.
 
-
 # Inspiration
-Initially I wanted to see if I can spawn the keyboad on any screen and then see if i can somehow give some command shortcuts from it and create shortcuts. However when looking for such functionality, there was no app to be found except `Hacker's Keyboard` which uses a persistant notification to pop up a keyboard. Well, I wanted something that is just a click(touch) away and thus created this `hack` of an app. Believe me its just a hack, and does not work on all Androids, but works on mine which is sufficient for now. Any person who knows android development might create something better.
+Initially I wanted to see if I can spawn the keyboad on any screen and then see if i can somehow give some command shortcuts from it and create shortcuts. However when looking for such functionality, there was no app to be found except `Hacker's Keyboard` which uses a persistant notification to pop up a keyboard. Well, I wanted something that is just a click(touch) away and thus created this `hack` of an app. Believe me its just a hack, and does not work on all Androids, but works on mine which is sufficient for now. Any person who knows android development might create something better. Trying to work on the 2nd part of my initial idea now, lets see how that goes.
+
+Apart from my own use case, i found some people would fine this useful who use RDP to login to servers from android and would like to spawn a keyboard on-demand. Same is the case for people who use emacs app on android. There maybe plenty more. If your android version is old enough, you can use this app. 
 
