@@ -1,7 +1,6 @@
 # KeyboardAnywhere
 Open android soft keyboard on demand.
-
-
+https://github.com/lokeshlkr/KeyboardAnywhere/blob/master/KeyboardAnywhere_Demo.mp4
 # Usage
 1. Download and Install the `.apk`
 2. Give it accessability permissions.
